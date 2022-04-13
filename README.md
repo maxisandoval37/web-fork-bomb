@@ -2,7 +2,7 @@
 <br>
 DON'T OPEN THE URL. Simulate the behavior of a fork bomb (for educational purposes only)
 <br><br>
-https://maxisandoval37.github.io/proyecto-secreto/home.html
+https://maxisandoval37.github.io/web-fork-bomb/home.html
 <br><br><br><br>
 <p align="center">
 Thanks! :)
